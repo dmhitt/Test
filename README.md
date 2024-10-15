@@ -1,3 +1,2 @@
 # test
-#Branch1 branch checkout
-## Conflict branch1
+#branch1 branch 
